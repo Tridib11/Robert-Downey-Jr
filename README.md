@@ -2,7 +2,7 @@
 
 
 
-<b>A normal app about the life of Rober Downey Jr to pay respect</b>
+<b>A normal app about the life of Robert Downey Jr to pay respect</b>
 
 
 
